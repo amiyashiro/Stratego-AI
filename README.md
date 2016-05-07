@@ -1,6 +1,6 @@
 # Stratego-AI
 
-Group project for an AI course. Other group members: Nathan Krummen, Tian Jin.
+Group project for B351 AI course. Other group members: Nathan Krummen, Tian Jin.
 
 This Stratego is the 10v10 version (8x8 board) and runs on the command line. All game mechanics are 
 contained in main.py. AI.py contains logic for randomly selecting a move. pieces.py holds the classes for
